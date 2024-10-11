@@ -25,6 +25,7 @@ shap = "^0.46.0"
 xgboost = "^2.1.1"
 interpret = "^0.6.3"
 scipy = "^1.14.1"
+ipython = "^8.28.0"
 
 
 [build-system]
